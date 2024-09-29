@@ -22,6 +22,6 @@ model training, evaluation, and visualization of results.
 To run this project locally, clone the repository and install the dependencies:
 
 ```bash
-git clone https://github.com/yourusername/fashion-mnist.git
+git clone https://github.com/Hazim-T/Fashion-MNIST.git
 cd fashion-mnist
 pip install -r requirements.txt
